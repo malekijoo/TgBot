@@ -1,4 +1,4 @@
-# TgBot Truth Or Dare
+# TgBot, Truth Or Dare
 A simple telegram Bot for Truth or Dare game.
 
 The bot starts with "/start" and ask the player to select
